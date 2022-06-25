@@ -1,0 +1,6 @@
+name: KBGL
+version: @version@
+authors: [Ninjoh, darwj]
+depend: [NinCommands]
+main: com.fablesfantasyrp.kbgl.KBGL
+api-version: 1.18
